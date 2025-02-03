@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 ## 🛠️ Languages and Tools
 
 - **Languages**: Python, JavaScript, Java, C++ <br>
---> - **Frameworks/Libraries**: Django <br>
+- **Frameworks/Libraries**: Django <br>
 - **Tools**: Git, VS Code, Jupyter <br>
 
 ## 📈 GitHub Stats
@@ -34,7 +34,7 @@ Feel free to check out my repositories and contribute to any projects that inter
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/mizan-rahman-103238206) <br>
----> [Twitter](https://twitter.com/your-profile) <br>
----> [Personal Website](https://your-website.com) <br>
+- [Twitter](https://twitter.com/your-profile) <br>
+- [Personal Website](https://your-website.com) <br>
 
 Thanks for visiting my profile! Have a great day! 😊
