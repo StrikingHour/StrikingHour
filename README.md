@@ -4,18 +4,18 @@ Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
---> - 🔭 I’m currently working on various open-source projects.
---> - 🌱 I’m currently learning advanced algorithms and machine learning.
---> - 👯 I’m looking to collaborate on open-source projects that make a difference.
---> - 💬 Ask me about anything related to web development, Python, and open-source contributions.
-- 📫 How to reach me: [Email Me](mailto:rahmamizan1@gmail.com)
-- ⚡ Fun fact: I love reading books and travelling!
+--> - 🔭 I’m currently working on various open-source projects.<br>
+--> - 🌱 I’m currently learning Quantum Cryptography. <br>
+--> - 🌱 I’m currently learning Building Large Language from Scratch. <br>
+--> - 👯 I’m looking to collaborate on open-source projects that make a difference. <br>
+- 📫 How to reach me: [Email Me](mailto:rahmamizan1@gmail.com) <br>
+- ⚡ Fun fact: I love reading books and travelling! <br>
 
 ## 🛠️ Languages and Tools
 
-- **Languages**: Python, JavaScript, Java, C++
---> - **Frameworks/Libraries**: React, Node.js, Django, Flask
-- **Tools**: Git, VS Code, Jupyter
+- **Languages**: Python, JavaScript, Java, C++ <br>
+--> - **Frameworks/Libraries**: Django <br>
+- **Tools**: Git, VS Code, Jupyter <br>
 
 ## 📈 GitHub Stats
 
