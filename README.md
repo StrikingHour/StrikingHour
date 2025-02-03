@@ -23,18 +23,18 @@ Welcome to my GitHub profile!
 
 ## 🌟 Top Projects
 
-Here are some of my top projects:
+Here are some of my top projects: <br>
 
---> 1. **Project Name** - Brief description of the project.
---> 2. **Project Name** - Brief description of the project.
---> 3. **Project Name** - Brief description of the project.
+--> 1. **Project Name** - Brief description of the project. <br>
+--> 2. **Project Name** - Brief description of the project. <br>
+--> 3. **Project Name** - Brief description of the project. <br>
 
-Feel free to check out my repositories and contribute to any projects that interest you!
+Feel free to check out my repositories and contribute to any projects that interest you! <br>
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/mizan-rahman-103238206)
----> [Twitter](https://twitter.com/your-profile)
----> [Personal Website](https://your-website.com)
+- [LinkedIn](https://www.linkedin.com/in/mizan-rahman-103238206) <br>
+---> [Twitter](https://twitter.com/your-profile) <br>
+---> [Personal Website](https://your-website.com) <br>
 
 Thanks for visiting my profile! Have a great day! 😊
