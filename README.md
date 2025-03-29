@@ -38,10 +38,14 @@ Feel free to check out my repositories and contribute to any projects that inter
 
 <p align="left">
   <b>📩 Contact Me:</b><br>
-  - 📧 [Email Me](mailto:rahmamizan1@gmail.com)  \
-  - 🌐 [LinkedIn](https://www.linkedin.com/in/mizan-rahman-103238206) \  
-  - 🐦 [Twitter](https://twitter.com/your-profile)  \
-  - 🔗 [Personal Website](https://your-website.com)  \
+  - 📧 [Email Me](mailto:rahmamizan1@gmail.com)  
+  
+  - 🌐 [LinkedIn](https://www.linkedin.com/in/mizan-rahman-103238206)
+    
+  - 🐦 [Twitter](https://twitter.com/your-profile)
+    
+  - 🔗 [Personal Website](https://your-website.com)
+    
 </p>
 
 Thanks for visiting my profile! Have a great day! 😊
