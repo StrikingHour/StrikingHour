@@ -8,10 +8,8 @@ Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on various open-source projects.  
-- 🌱 I’m currently learning **Quantum Cryptography**.  
-- 🌱 I’m currently learning **Building Large Language Models from Scratch**.  
-- 👯 I’m looking to collaborate on open-source projects that make a difference.  
+- 🎓 I am a PhD student in Computer & Information Science at Temple University.
+- 🔬 My primary research interests are Quantum Networking, Distributed Quantum Computing (DQC), and Quantum Cryptography. 
 - ⚡ Fun fact: I love reading books and traveling!  
 
 ## 🛠️ Languages and Tools
