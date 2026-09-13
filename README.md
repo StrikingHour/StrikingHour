@@ -12,11 +12,7 @@ Welcome to my GitHub profile!
 - 🔬 My primary research interests are Quantum Networking, Distributed Quantum Computing (DQC), and Quantum Cryptography. 
 - ⚡ Fun fact: I love reading books and traveling!  
 
-## 🛠️ Languages and Tools
 
-- **Languages**: Python, JavaScript, Java, C++  
-- **Frameworks/Libraries**: Django  
-- **Tools**: Git, VS Code, Jupyter  
 
 ## 📈 GitHub Stats
 
