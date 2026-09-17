@@ -18,15 +18,6 @@ Welcome to my GitHub profile!
 
 [StrikingHour's GitHub stats](https://github-readme-stats.vercel.app/api?username=StrikingHour&show_icons=true&theme=radical)
 
-## 🌟 Top Projects
-
-Here are some of my top projects:
-
-1. **Project Name** - Brief description of the project.  
-2. **Project Name** - Brief description of the project.  
-3. **Project Name** - Brief description of the project.  
-
-Feel free to check out my repositories and contribute to any projects that interest you!
 
 ## 📫 Connect with Me
 
