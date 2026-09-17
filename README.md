@@ -16,7 +16,7 @@ Welcome to my GitHub profile!
 
 ## 📈 GitHub Stats
 
-![StrikingHour's GitHub stats](https://github-readme-stats.vercel.app/api?username=StrikingHour&show_icons=true&theme=radical)
+[StrikingHour's GitHub stats](https://github-readme-stats.vercel.app/api?username=StrikingHour&show_icons=true&theme=radical)
 
 ## 🌟 Top Projects
 
